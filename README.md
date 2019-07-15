@@ -72,4 +72,9 @@ Note the port this is running on (most likely 3000) .
 Now, you can dial your Nexmo Number, and it should connect to the DialogFlow Agent.  
 
 You transfer to the SUPPORT_NUMBER, say "agent" or "representative" (or whatever you set up in yout DF Intent)
+
+
+
+Special thanks to Kevin Alwell and his DialogFlow/Nexmo demo: https://github.com/alwell-kevin/simple-smart-ivr-framework
+
  
